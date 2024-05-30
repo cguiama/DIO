@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Estrutura</title>
+	<style>
+		.codeBlock {
+			color: white;
+			background-color: #333;
+			max-width: 500px;
+			padding: 15px 30px 15px 15px;
+			border-radius: 4px;
+		}
+
+		.red {
+			color: lightcoral;
+		}
+
+		.blue {
+			color: lightskyblue;
+		}
+
+		.green {
+			color: lightgreen;
+		}
+
+		.orange {
+			color: orange;
+		}
+	</style>
+</head>
+<!-- &lt; &gt; -->
+
+<body>
+	<h2>Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+	<p> No mundo do HTML, as listas são ferramentas essenciais para organizar e apresentar informações de forma clara e concisa. Seja para enumerar tarefas, mostrar ingredientes de uma receita ou destacar pontos importantes em um texto, as listas facilitam a leitura e a compreensão do conteúdo.</p>
+
+	<p>Para construir listas impecáveis em HTML, vamos desvendar sua estrutura básica:</p>
+
+	<h4>1. Escolhendo o Tipo de Lista:</h4>
+
+	<h5>Lista não ordenada (&lt;ul&gt;):</h5>
+	<ul>
+		<li>Ideal para itens sem ordem específica, como em um brainstorming ou lista de compras.</li>
+		<li>
+			<p>Cada item da lista é iniciado com a tag &lt;li&gt;.
+		</li>
+	</ul>
+	<h5>Sintaxe:</h5>
+	<div class="codeBlock">
+		<p>HTML</p>
+		&lt;<span class="red">ul</span>&gt;<br>
+		&lt;<span class="red">li</span>&gt;Item 1&lt;<span class="red">/li</span>&gt;<br>
+		&lt;<span class="red">li</span>&gt;Item 2&lt;<span class="red">/li</span>&gt;<br>
+		&lt;<span class="red">li</span>&gt;Item 3&lt;<span class="red">/li</span>&gt;<br>
+		&lt;<span class="red">/ul</span>&gt;<br>
+	</div>
+
+	<h5>Lista ordenada (&lt;ol&gt;)</h5>
+	<ol>
+		<li>Perfeita para itens com sequência definida, como etapas de um procedimento ou numeração de itens.</li>
+		<li>Cada item da lista é iniciado com a tag &lt;li&gt;.</li>
+		<li>A ordem dos itens é definida por atributos dentro da tag &lt;ol&gt;, como type e start.</li>
+	</ol>
+	<h5>Sintaxe</h5>
+	<div class="codeBlock">
+		<p>HTML</p>
+		&lt;<span class="red">ol</span> <span class="orange">type</span>=<span class="green">"1"</span>&gt;<br>
+		&lt;<span class="red">li</span>&gt;Primeiro passo&lt;<span class="red">/li</span>&gt;<br>
+		&lt;<span class="red">li</span>&gt;Segundo passo&lt;<span class="red">/li</span>&gt;<br>
+		&lt;<span class="red">li</span>&gt;Terceiro passo&lt;<span class="red">/li</span>&gt;<br>
+		&lt;<span class="red">/ol</span>&gt;
+	</div>
+
+	<h4>2. Estilizando com CSS:</h4>
+
+	<p>As tags &lt;<b>ul</b>&gt; e &lt;<b>ol</b>&gt; fornecem a estrutura básica da lista, mas para deixá-la ainda mais atraente e organizada, podemos utilizar CSS. Através de propriedades como list-style-type, list-style-image e margin, você pode personalizar marcadores, espaçamentos e outros aspectos visuais da lista.</p>
+
+	<h4>3. Recursos Adicionais:</h4>
+
+	<p>Sublistas: Crie hierarquias aninhadas dentro da lista utilizando as tags &lt;<b>ul</b>&gt; ou &lt;<b>ol</b>&gt; dentro de outras tags &lt;<b>li</b>&gt;.</p>
+	<p>Listas de Definição (&lt;<b>dl</b>&gt;): Apresente termos e suas definições de forma organizada com as tags &lt;<b>dl</b>&gt;, &lt;<b>dt</b>&gt; (termo) e
+		&lt;<b>dd</b>&gt; (definição).</p>
+	<p>Atributos em
+		&lt;<b>li</b>&gt;:
+		Adicione informações extras aos itens da lista com atributos como id, class e data-*..</p>
+	<h4>Lembre-se</h4>
+
+	<p>A estrutura básica de uma lista em HTML é simples e flexível, permitindo a criação de diversas variações para atender às suas necessidades.</p>
+	<p>Explore as opções de estilo com CSS para deixar suas listas ainda mais bonitas e informativas.</p>
+	<p>Utilize recursos adicionais como sublistas e listas de definição para organizar e apresentar conteúdo de forma eficiente.</p>
+	<p>Domine as listas em HTML e torne seus websites mais organizados e acessíveis!</p>
+
+	<h2>Links de referências</h2>
+	<ul>
+		<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ul" target="_blank">MDN Web Docs - Listas</a></li>
+		<li><a href="https://www.w3schools.com/html/html_lists.asp" target="_blank">W3Schools - Listas HTML</a></li>
+	</ul>
+	<h2><a href="./index.html">Voltar ao Índice</a></h2>
+</body>
+
+</html>
