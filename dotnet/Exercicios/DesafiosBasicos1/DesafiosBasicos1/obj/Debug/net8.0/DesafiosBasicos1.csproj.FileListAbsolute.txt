@@ -1,0 +1,15 @@
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\bin\Debug\net8.0\DesafiosBasicos1.exe
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\bin\Debug\net8.0\DesafiosBasicos1.deps.json
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\bin\Debug\net8.0\DesafiosBasicos1.runtimeconfig.json
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\bin\Debug\net8.0\DesafiosBasicos1.dll
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\bin\Debug\net8.0\DesafiosBasicos1.pdb
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.AssemblyInfoInputs.cache
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.AssemblyInfo.cs
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.csproj.CoreCompileInputs.cache
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.sourcelink.json
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.dll
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\refint\DesafiosBasicos1.dll
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.pdb
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\DesafiosBasicos1.genruntimeconfig.cache
+C:\Programação\Cursos\DIO\dotnet\Exercicios\DesafiosBasicos1\DesafiosBasicos1\obj\Debug\net8.0\ref\DesafiosBasicos1.dll
