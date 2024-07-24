@@ -1,0 +1,15 @@
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfoInputs.cache
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfo.cs
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.sourcelink.json
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\bin\Debug\net8.0\Revisao.exe
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\bin\Debug\net8.0\Revisao.deps.json
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\bin\Debug\net8.0\Revisao.runtimeconfig.json
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\bin\Debug\net8.0\Revisao.dll
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\bin\Debug\net8.0\Revisao.pdb
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.dll
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\refint\Revisao.dll
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.pdb
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\Revisao.genruntimeconfig.cache
+C:\Programação\Cursos\DIO\dotnet\GtfStart5\Modulo 1\Revisao\obj\Debug\net8.0\ref\Revisao.dll
